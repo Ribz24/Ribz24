@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative projects aimed at social impact.
 - 📫 How to reach me: feel free to drop me a message here on GitHub 
 - 😄 Pronouns: She
-- ⚡ Fun fact: I am a music and food lover 
+- ⚡ Fun fact: I am a lover of good music and food 
 
 <!---
 Ribz24/Ribz24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
