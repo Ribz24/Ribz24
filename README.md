@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ribz24
+- 👋 Hi, Rebecca here
 - 👀 I’m interested in leveraging technology to drive positive change, particularly in underdeveloped regions. 
 - 🌱 I’m currently learning coding and Machine learning
 - 💞️ I’m looking to collaborate on innovative projects aimed at social impact.
